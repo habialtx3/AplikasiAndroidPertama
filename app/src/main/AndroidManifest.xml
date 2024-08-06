@@ -14,15 +14,15 @@
         tools:targetApi="31">
         <activity
             android:name=".Menu3"
+            android:label=".Menu3"
             android:exported="false" />
         <activity
             android:name=".Menu2"
-            android:exported="false" />
-        <activity
-            android:name=".menu2"
+            android:label=".Menu2"
             android:exported="false" />
         <activity
             android:name=".Menu1"
+            android:label=".Menu1"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
